@@ -1,0 +1,27 @@
+{
+  "name": "log-dog-extras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avoronkin/log-dog-extras.git"
+  },
+  "homepage": "https://github.com/avoronkin/log-dog-extras",
+  "keywords": [
+    "log",
+    "dog"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "redis": "^2.6.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
